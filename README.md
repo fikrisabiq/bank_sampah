@@ -10,5 +10,5 @@ Aplikasi ini juga terdapat 2 level yaitu admin dan nasabah. Admin untuk mengatur
   <li>untuk menjalankan aplikasi, git bash pada folder bank_sampah, lalu ketikan php spark serve</li>
   <li>buka xampp, start apache dan mysql</li>
   <li>Buka broswer, ketikan localhost:8080 pada searchbar</li>
-  <li>Untuk username : admin, dan untuk password : sangatkuat</li>
+  <li>Untuk username : fikri, dan untuk password : sangatkuat</li>
 </ol>
